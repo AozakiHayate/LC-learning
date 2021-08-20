@@ -12,7 +12,6 @@ class Solution {
     }
     return longestWord;
 }
-
 private boolean isSubstr(String s, String target) {
     int i = 0, j = 0;
     while (i < s.length() && j < target.length()) {
