@@ -12,6 +12,7 @@ public:
                 index++;
             }
         }
+        
         swap(v[start], v[index]);
 
         if (k <= index - start) {
