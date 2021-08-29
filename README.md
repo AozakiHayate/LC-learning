@@ -1,5 +1,5 @@
 # LC-learning
-LeetCode練習のため、
+LeetCode練習のため、  
 解答したコードの保存・問題解決のアイデアを整理する。
 
 
