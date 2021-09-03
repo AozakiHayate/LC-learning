@@ -6,10 +6,8 @@ public:
 
         // 有一个字符串为空串
         if (n * m == 0) return n + m;
-
         // DP 数组
         int D[n + 1][m + 1];
-
         // 边界状态初始化
         for (int i = 0; i < n + 1; i++) {
             D[i][0] = i;
@@ -17,7 +15,6 @@ public:
         for (int j = 0; j < m + 1; j++) {
             D[0][j] = j;
         }
-
         // 计算所有 DP 值
         for (int i = 1; i < n + 1; i++) {
             for (int j = 1; j < m + 1; j++) {
