@@ -21,7 +21,6 @@ public:
         }
         return ret;
     }
-
     int climbStairs(int n) {
         vector<vector<long long>> ret = {{1, 1}, {1, 0}};
         vector<vector<long long>> res = matrixPow(ret, n);
