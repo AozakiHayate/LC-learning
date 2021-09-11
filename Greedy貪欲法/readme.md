@@ -7,3 +7,7 @@
 452. Minimum Number of Arrows to Burst Balloons (Medium)
 
 406. Queue Reconstruction by Height(Medium)
+
+121. Best Time to Buy and Sell Stock (Easy)
+
+122. Best Time to Buy and Sell Stock II (Easy)
