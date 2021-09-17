@@ -13,8 +13,8 @@
 
 605 Can Place Flowers (Easy)  、
 
-3.    605. Can Place Flowers (Easy)
+605 Can Place Flowers (Easy)
 
-665. Non-decreasing Array (Easy)
+665 Non-decreasing Array (Easy)
 
-53. Maximum Subarray (Easy)
+53 Maximum Subarray (Easy)
