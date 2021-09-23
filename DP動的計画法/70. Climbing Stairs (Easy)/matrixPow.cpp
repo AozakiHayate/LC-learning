@@ -9,7 +9,6 @@ public:
         }
         return c;
     }
-
     vector<vector<long long>> matrixPow(vector<vector<long long>> a, int n) {
         vector<vector<long long>> ret = {{1, 0}, {0, 1}};
         while (n > 0) {
