@@ -4,3 +4,7 @@
 
 
 204 Count Primes (Easy)  
+
+
+504 Base 7 (Easy)  
+
