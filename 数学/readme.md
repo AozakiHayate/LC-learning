@@ -1,3 +1,6 @@
-7  整数反転 Reverse Integer
+7  整数反転 Reverse Integer  
 
-14 Longest Common Prefix
+14 Longest Common Prefix  
+
+
+204 Count Primes (Easy)  
