@@ -4,6 +4,7 @@ public int rob(int[] nums) {
         int cur = Math.max(pre2 + nums[i], pre1);
         pre2 = pre1;
         pre1 = cur;
+        
     }
     return pre1;
 }
