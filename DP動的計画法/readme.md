@@ -9,3 +9,4 @@ Path　経路問題：
 
 64 Minimum Path Sum (Medium)
 
+62 Unique Paths (Medium)
