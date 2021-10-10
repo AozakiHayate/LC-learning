@@ -7,6 +7,7 @@ public int countPrimes(int n) {
         }
         count++;
         // 从 i * i 开始，因为如果 k < i，那么 k * i 在之前就已经被去除过了
+        
         for (long j = (long) (i) * i; j < n; j += i) {
             notPrimes[(int) j] = true;
         }
