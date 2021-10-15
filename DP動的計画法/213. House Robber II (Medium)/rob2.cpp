@@ -9,7 +9,6 @@ public:
         }
         return second;
     }
-
     int rob(vector<int>& nums) {
         int length = nums.size();
         if (length == 1) {
@@ -20,3 +19,4 @@ public:
         return max(robRange(nums, 0, length - 2), robRange(nums, 1, length - 1));
     }
 };
+
