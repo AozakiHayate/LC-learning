@@ -12,3 +12,5 @@ Path　経路問題：
 62 Unique Paths (Medium)
 
 303 Range Sum Query - Immutable (Easy)
+
+413 Arithmetic Slices (Medium)
