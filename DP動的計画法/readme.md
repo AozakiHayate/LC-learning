@@ -14,3 +14,5 @@ Path　経路問題：
 303 Range Sum Query - Immutable (Easy)
 
 413 Arithmetic Slices (Medium)
+
+343 Integer Break (Medim)
