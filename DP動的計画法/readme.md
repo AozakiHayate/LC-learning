@@ -16,3 +16,5 @@ Path　経路問題：
 413 Arithmetic Slices (Medium)
 
 343 Integer Break (Medim)
+
+413 Arithmetic Slices (Medium)
