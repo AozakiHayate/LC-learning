@@ -7,6 +7,7 @@ public String convertToBase7(int num) {
     if (isNegative) {
         num = -num;
     }
+    
     while (num > 0) {
         sb.append(num % 7);
         num /= 7;
