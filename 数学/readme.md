@@ -8,4 +8,4 @@
 
 504 Base 7 (Easy)  
 
-
+405 Convert a Number to Hexadecimal (Easy)
