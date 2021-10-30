@@ -11,3 +11,5 @@
 405 Convert a Number to Hexadecimal (Easy)
 
 462 Minimum Moves to Equal Array Elements II (Medium)
+
+169 Majority Element (Easy)
