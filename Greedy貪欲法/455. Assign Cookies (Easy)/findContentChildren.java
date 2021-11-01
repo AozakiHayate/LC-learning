@@ -8,6 +8,7 @@ class Solution {
             while (j < numOfCookies && g[i] > s[j]) {
                 j++;
             }
+            
             if (j < numOfCookies) {
                 count++;
             }
