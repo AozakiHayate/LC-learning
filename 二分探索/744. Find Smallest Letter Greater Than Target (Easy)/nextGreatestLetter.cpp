@@ -11,3 +11,4 @@ public:
         return letters[left];
     }
 };
+
