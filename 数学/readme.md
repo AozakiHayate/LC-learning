@@ -13,3 +13,5 @@
 462 Minimum Moves to Equal Array Elements II (Medium)
 
 169 Majority Element (Easy)
+
+67 Add Binary (Easy)
