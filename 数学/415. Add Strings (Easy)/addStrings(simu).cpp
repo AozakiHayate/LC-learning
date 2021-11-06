@@ -12,7 +12,6 @@ public:
             i -= 1;
             j -= 1;
         }
-        // 计算完以后的答案需要翻转过来
         reverse(ans.begin(), ans.end());
         return ans;
     }
