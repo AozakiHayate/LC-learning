@@ -1,4 +1,5 @@
 class Solution {
+    
 public:
     bool checkPalindrome(const string& s, int low, int high) {
         for (int i = low, j = high; i < j; ++i, --j) {
