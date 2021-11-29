@@ -5,6 +5,7 @@ public:
             return nullptr;
         }
         ListNode *pA = headA, *pB = headB;
+        ListNode *pA = headA, *pB = headB;
         while (pA != pB) {
             pA = pA == nullptr ? headB : pA->next
                 //
