@@ -8,7 +8,6 @@ public:
         sort(intervals.begin(), intervals.end(), [](const auto& u, const auto& v) {
             return u[0] < v[0];
         });
-
         int n = intervals.size();
         vector<int> f(n, 1);
         for (int i = 1; i < n; ++i) {
