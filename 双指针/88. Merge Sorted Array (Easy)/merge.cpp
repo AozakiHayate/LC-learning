@@ -9,5 +9,6 @@ public:
             else if(nums1[index1]>nums2[index2])nums1[index_m--]=nums1[index1--];
             else nums1[index_m--]=nums2[index2--];
         }
+        
     }
 };
