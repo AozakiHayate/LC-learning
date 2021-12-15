@@ -12,6 +12,5 @@ public:
             pB = pB == nullptr ? headA : pB->next;
         }
         return pA;
-        
     }
 };
