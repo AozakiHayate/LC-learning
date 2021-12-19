@@ -4,7 +4,6 @@ public:
         if (intervals.empty()) {
             return 0;
         }
-   
         sort(intervals.begin(), intervals.end(), [](const auto& u, const auto& v) {
             return u[0] < v[0];
         });
