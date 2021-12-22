@@ -23,7 +23,6 @@ public:
                 int left_down = D[i - 1][j - 1];
                 if (word1[i - 1] != word2[j - 1]) left_down += 1;
                 D[i][j] = min(left, min(down, left_down));
-
             }
         }
         return D[n][m];
