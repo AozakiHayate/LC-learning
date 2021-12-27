@@ -3,7 +3,7 @@ public:
     int minDistance(string word1, string word2) {
         int n = word1.length();
         int m = word2.length();
-        
+      
         // 有一个字符串为空串
         if (n * m == 0) return n + m;
         // DP 数组
