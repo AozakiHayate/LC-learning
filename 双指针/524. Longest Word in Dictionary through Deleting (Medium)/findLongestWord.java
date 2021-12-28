@@ -23,3 +23,4 @@ private boolean isSubstr(String s, String target) {
     return j == target.length();
 }
 }
+
