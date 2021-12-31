@@ -13,7 +13,6 @@ public:
                 c /= base;
                 exp++;
             }
-
             // 根据 Sum of two squares theorem 验证
             if (base % 4 == 3 && exp % 2 != 0) {
                 return false;
