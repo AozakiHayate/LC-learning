@@ -8,6 +8,7 @@ public:
             first = temp;
         }
         return second;
+        
     }
     int rob(vector<int>& nums) {
         int length = nums.size();
