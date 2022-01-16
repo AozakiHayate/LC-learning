@@ -9,7 +9,7 @@ public:
         }
         if(letters[left]<=target)return letters[0];
         return letters[left];
-    
+  
     }
 };
 
