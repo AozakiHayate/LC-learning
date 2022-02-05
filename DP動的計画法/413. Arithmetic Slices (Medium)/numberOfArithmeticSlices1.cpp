@@ -5,7 +5,6 @@ public:
         if (n == 1) {
             return 0;
         }
-
         int d = nums[0] - nums[1], t = 0;
         int ans = 0;
         for (int i = 2; i < n; ++i) {
