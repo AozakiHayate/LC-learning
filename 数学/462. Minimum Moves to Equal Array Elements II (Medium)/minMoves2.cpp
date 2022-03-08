@@ -6,7 +6,6 @@ public int minMoves2(int[] nums) {
     }
     return move;
 }
-
 private int findKthSmallest(int[] nums, int k) {
     int l = 0, h = nums.length - 1;
     while (l < h) {
