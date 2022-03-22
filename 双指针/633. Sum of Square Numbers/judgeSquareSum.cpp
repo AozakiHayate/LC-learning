@@ -6,6 +6,7 @@ public:
             if (c % base != 0) {
                 continue;
             }
+            
             // 计算 base 的幂
             int exp = 0;
             while (c % base == 0) {
