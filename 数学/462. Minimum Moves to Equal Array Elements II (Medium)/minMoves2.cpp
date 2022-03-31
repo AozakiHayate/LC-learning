@@ -22,6 +22,7 @@ private int findKthSmallest(int[] nums, int k) {
     return nums[k];
 }
 
+
 private int partition(int[] nums, int l, int h) {
     int i = l, j = h + 1;
     while (true) {
