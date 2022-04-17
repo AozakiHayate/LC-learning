@@ -10,7 +10,7 @@ class Solution {
             longestWord = target;
         }
     }
-        
+       
     return longestWord;
 }
 private boolean isSubstr(String s, String target) {
