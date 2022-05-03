@@ -9,6 +9,7 @@ public:
         return length;
     }
   
+    
  
 
     ListNode* removeNthFromEnd(ListNode* head, int n) {
