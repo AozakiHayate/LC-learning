@@ -9,7 +9,7 @@ public:
         return length;
     }
 
-    
+   
 
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         ListNode* dummy = new ListNode(0, head);
