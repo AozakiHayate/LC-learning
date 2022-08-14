@@ -2,7 +2,7 @@ class Solution:
     def minDistance(self, word1: str, word2: str) -> int:
         n = len(word1)
         m = len(word2)
-        
+       
         # 有一个字符串为空串
         if n * m == 0:
             return n + m
