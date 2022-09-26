@@ -13,7 +13,7 @@ public:
             maxHeapify(a, largest, heapSize);
         }
     }
- 
+
     void buildMaxHeap(vector<int>& a, int heapSize) {
         for (int i = heapSize / 2; i >= 0; --i) {
             maxHeapify(a, i, heapSize);
