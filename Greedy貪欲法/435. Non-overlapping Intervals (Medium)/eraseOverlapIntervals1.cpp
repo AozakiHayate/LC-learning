@@ -16,7 +16,7 @@ public:
                 }
             }
         }
-  
+ 
         return n - *max_element(f.begin(), f.end());
     }
 };
