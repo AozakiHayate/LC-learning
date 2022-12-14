@@ -10,7 +10,7 @@ public:
         return true;
     }
 
-  
+ 
     bool validPalindrome(string s) {
         int low = 0, high = s.size() - 1;
         while (low < high) {
