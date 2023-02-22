@@ -23,7 +23,7 @@ public:
         return s;
     }
     
-   
+  
   
     // 判断是否是元音
     bool judge(char a) {
